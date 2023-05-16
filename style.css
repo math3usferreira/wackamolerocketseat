@@ -16,7 +16,7 @@ body {
 }
 
 .main {
-   background-image: url(./Images/fundo.svg);
+   background-image: url(./images/fundo.svg);
   background-repeat: no-repeat;
   background-size: 100%;
  
@@ -39,7 +39,7 @@ body {
 }
 
 .mole { 
-  background-image: url(./Images/toupeira6.svg) ;
+  background-image: url(./images/toupeira6.svg) ;
   width: 22.2rem;
   height: 16.9rem;
  
@@ -65,25 +65,25 @@ body {
 
 @keyframes toupeira {
   0% {
-      background-image: url(./Images/toupeira6.svg);
+      background-image: url(./images/toupeira6.svg);
   }
   15% {
-      background-image: url(./Images/toupeira1.svg);
+      background-image: url(./images/toupeira1.svg);
   }
   30% {
-      background-image: url(./Images/toupeira2.svg);
+      background-image: url(./images/toupeira2.svg);
   }
   45% {
-      background-image: url(./Images/toupeira3.svg);
+      background-image: url(./images/toupeira3.svg);
   }
   60% {
-      background-image: url(./Images/toupeira4.svg);
+      background-image: url(./images/toupeira4.svg);
   }
   85% {
-      background-image: url(./Images/toupeira5.svg);
+      background-image: url(./images/toupeira5.svg);
   }
   100% {
-    background-image: url(./Images/toupeira6.svg);
+    background-image: url(./images/toupeira6.svg);
 }
   
 }
