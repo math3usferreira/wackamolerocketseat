@@ -16,7 +16,7 @@ body {
 }
 
 .main {
-   background-image: url("./Images/fundo.svg");
+   background-image: url(./Images/fundo.svg);
   background-repeat: no-repeat;
   background-size: 100%;
  
