@@ -18,11 +18,10 @@ body {
 .main {
    background-image: url(./images/fundo.svg);
   background-repeat: no-repeat;
-  
+    background-size: 100%;
  
   position: relative;
-  width: 100vw;
-  height: 100vh;
+ 
   margin: 0 auto;
 }
 
